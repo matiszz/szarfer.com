@@ -4,7 +4,7 @@ document.getElementById('papa').addEventListener("mouseout", () => onBlur());
 document.getElementById('alex').addEventListener("mouseover", () => onHover('#09201D', 'Alex Szarfer', 'Event photo and DJ'));
 document.getElementById('alex').addEventListener("mouseout", () => onBlur());
 
-document.getElementById('fede').addEventListener("mouseover", () => onHover('#E76F51', 'Federico Szarfer', 'Cinema production'));
+document.getElementById('fede').addEventListener("mouseover", () => onHover('#E76F51', 'Federico Szarfer', 'Communication and project management\nAudiovisual and cultural production'));
 document.getElementById('fede').addEventListener("mouseout", () => onBlur());
 
 document.getElementById('mati').addEventListener("mouseover", () => onHover('#E9C46A', 'Matias Szarfer', 'Web & apps development'));
@@ -17,7 +17,7 @@ const opposite = {
   "#E9C46A": "#59430D",
 };
 
-const duration = '400ms';
+const duration = '800ms';
 
 function onHover (color, name, job) {
   let container = document.getElementById('container');

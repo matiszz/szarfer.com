@@ -8,7 +8,7 @@ html, body {
 h1 {
     text-align: center;
     color: #D0D0D0;
-    margin-bottom: 0;
+    margin-bottom: 64px;
     font-weight: 200;
 }
 
@@ -26,6 +26,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 16px;
 }
 
 .dots {
@@ -44,14 +45,16 @@ h1 {
 
 #name {
     opacity: 0;
-    transition: opacity 400ms;
+    text-align: center;
+    transition: opacity 800ms;
     margin-bottom: 0;
     font-weight: 400;
 }
 
 #job {
     opacity: 0;
-    transition: opacity 400ms;
+    text-align: center;
+    transition: opacity 800ms;
     font-weight: 200;
 }
 
