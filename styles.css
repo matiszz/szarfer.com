@@ -1,0 +1,62 @@
+html, body {
+    background: #2A9D8F;
+    font-family: 'Roboto Mono', monospace;
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #ABCCD8;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.occupance {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.dots {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.dot {
+    width: 30px;
+    height: 30px;
+    margin-left: 32px;
+    margin-right: 32px;
+    border-radius: 30px;
+}
+
+#name {
+    opacity: 0;
+    transition: opacity 400ms;
+}
+
+#job {
+    opacity: 0;
+    transition: opacity 400ms;
+}
+
+
+.alex { background: #09201D }
+.papa { background: #FAD3B3 }
+.fede { background: #E76F51 }
+.mati { background: #E9C46A }
+
+.alex:hover { box-shadow: 5px 5px 12px #071916, -5px -5px 12px #0b2724; }
+.papa:hover { box-shadow: 5px 5px 12px #c1a28a, -5px -5px 12px #ffffdc; }
+.fede:hover { box-shadow: 5px 5px 12px #b2553e, -5px -5px 12px #ff8964; }
+.mati:hover { box-shadow: 5px 5px 12px #b39752, -5px -5px 12px #fff182; }
