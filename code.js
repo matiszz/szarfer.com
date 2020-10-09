@@ -42,11 +42,11 @@ function onHover (color, name, job) {
 
 function onBlur () {
   let container = document.getElementById('container');
-  container.style.background = '#2A9D8F';
+  container.style.background = '#495057';
   container.style.transitionDuration = duration;
 
   let title = document.getElementById('title');
-  title.style.color = '#ABCCD8';
+  title.style.color = '#000000';
   title.style.transitionDuration = duration;
 
   let nameField = document.getElementById('name');

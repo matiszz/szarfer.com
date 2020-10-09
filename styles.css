@@ -1,5 +1,5 @@
 html, body {
-    background: #2A9D8F;
+    background: #495057;
     font-family: 'Roboto Mono', monospace;
     height: 100%;
     margin: 0;
@@ -7,7 +7,9 @@ html, body {
 
 h1 {
     text-align: center;
-    color: #ABCCD8;
+    color: #000000;
+    margin-bottom: 0;
+    font-weight: 200;
 }
 
 .center {
@@ -43,11 +45,14 @@ h1 {
 #name {
     opacity: 0;
     transition: opacity 400ms;
+    margin-bottom: 0;
+    font-weight: 400;
 }
 
 #job {
     opacity: 0;
     transition: opacity 400ms;
+    font-weight: 200;
 }
 
 
