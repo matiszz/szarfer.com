@@ -46,7 +46,7 @@ function onBlur () {
   container.style.transitionDuration = duration;
 
   let title = document.getElementById('title');
-  title.style.color = '#000000';
+  title.style.color = '#D0D0D0';
   title.style.transitionDuration = duration;
 
   let nameField = document.getElementById('name');

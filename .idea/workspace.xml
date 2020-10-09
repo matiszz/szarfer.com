@@ -4,7 +4,6 @@
     <list default="true" id="881d806d-e6a4-4d1a-83d3-7bad25bd909a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +47,34 @@
       <workItem from="1602147173170" duration="2334000" />
       <workItem from="1602192318764" duration="2211000" />
       <workItem from="1602233880180" duration="4194000" />
-      <workItem from="1602238954944" duration="400000" />
+      <workItem from="1602238954944" duration="629000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish styles">
+      <created>1602239517508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602239517508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish styles" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1933" y="135" width="777" height="822" key="CommitChangelistDialog2" timestamp="1602239517332">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1933" y="135" width="777" height="822" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602239517332" />
+    <state x="1921" y="276" width="802" height="540" key="Vcs.Push.Dialog.v2" timestamp="1602239519014">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1921" y="276" width="802" height="540" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602239519014" />
     <state x="1990" y="244" key="run.anything.popup" timestamp="1602237670926">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
